@@ -22,7 +22,7 @@ namespace TrackerLibrary.Models
         /// Represents the Matchup that this team came 
         /// from as the winner.
         /// </summary>
-        public MatchupModel ParentMatching { get; set; }
+        public MatchupModel ParentMatchup { get; set; }
 
     }
 }
